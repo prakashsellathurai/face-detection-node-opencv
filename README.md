@@ -1,5 +1,7 @@
 # face-detection-node-opencv
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ff89a8b13b24fa4a2dcd7834b1f69f1)](https://app.codacy.com/manual/prakashsellathurai/face-detection-node-opencv?utm_source=github.com&utm_medium=referral&utm_content=prakashsellathurai/face-detection-node-opencv&utm_campaign=Badge_Grade_Settings)
+
 Real-time face detection using OpenCV, Node.js, and WebSockets.
 
 Click [here](http://youtu.be/v2SY0naPBFw) to see it in action.
